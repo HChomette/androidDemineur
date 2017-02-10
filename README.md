@@ -33,3 +33,13 @@ Tous les écrans sont disponibles dans les deux orientations, et la rotation en 
 J'ai rendu la classe Cellule Serializable, pour passer le tableau dans le Bundle. Il y avait peut être mieux, mais je travaillerai de toute façon cela en cours, il s'agit de mon prochain cours d'Android après la semaine de vacances.
 
 Enfin, il y a une petite animation d'apparition en transparence sur la première activité.
+
+# Points à améliorer
+
+Je ne suis pas encore très à l'aise avec les interfaces, même si le résultat final est plutot facilement utilisable. C'est donc un point que je vais améliorer lors de mon projet de cours d'Android.
+
+Je ne suis également pas toujours sûr des bonnes pratiques spécifiques aux applications Android, mais encore une fois, cela s'améliorera en ayant mes cours d'Android (Je n'en ai eu que 3 pour l'instant).
+
+# Temps passé
+
+J'ai passé environ 10 à 15 heures tout compris je pense (Je ne suis pas sûr, c'était très dispersé). L'apprentissage a pris la plus grosse part, puisque je partais des bases en Android. Si je devais le refaire avec mes connaissances actuelles, ce serait déjà nettement plus rapide.
