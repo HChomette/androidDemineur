@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Demineur</string>
+    <string name="instruction_title">Instructions</string>
+    <string name="instruction_content">Bienvenue dans le démineur.\n
+        \n
+        Dans ce jeu, vous devez dévoiler toutes les cases sans jamais appuyer sur une bombe cachée.\n
+        \n
+        Appuyez sur une case pour tenter de la dévoiler.\n
+        \n
+        Vous pouvez également appuyer sur le bouton du drapeau, puis sur une case, afin de
+        la marquer, si vous pensez qu\'une bombe se trouve à cet endroit.\n
+        \n
+        Pour vous aider, les cases révélées indiqueront le nombres de bombes sur les 8 cases
+        adjacentes.\n
+        \n
+        Bonne chance !</string>
+
+    <string name="next">Suivant</string>
+
+    <string name="difficulte_title">Choix de la difficulté</string>
+    <string name="easy">Facile</string>
+    <string name="medium">Moyen</string>
+    <string name="hard">Difficile</string>
+    <string name="indic">Plateau de %1$d*%1$d cases contenant %2$d bombes</string>
+    <string name="errorDifficulte">Veuillez choisir une difficulté</string>
+
+    <string name="flag">Drapeau</string>
+    <string name="restart">Recommencer</string>
+    <string name="leave">Quitter</string>
+
+    <string name="victory_title">Victoire</string>
+    <string name="victory_content">Vous avez gagné</string>
+
+    <string name="defeat_title">Défaite</string>
+    <string name="defeat_content">Vous avez perdu</string>
+</resources>

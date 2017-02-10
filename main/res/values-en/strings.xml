@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demineur</string>
+    <string name="defeat_content">You lost</string>
+    <string name="defeat_title">Defeat</string>
+    <string name="difficulte_title">Difficulty choice</string>
+    <string name="easy">Easy</string>
+    <string name="errorDifficulte">Please choose a difficulty</string>
+    <string name="flag">Flag</string>
+    <string name="hard">Hard</string>
+    <string name="indic">Board made of %1$d*%1$d cells containing %2$d bombs</string>
+    <string name="instruction_content">Welcome to the minesweeper.\n\n        In this game you have to reveal every empty cell without ever revealing a hidden bomb.\n\n        Touch a cell to try revealing it.\n\n        You can also press the flag button, then a cell, in order to mark it, if you think there is\n        a bomb there.\n\n        To help you, the revealed cells indicate how many bombs there are in the 8 adjacent\n        cells.\n\n        Good Luck!</string>
+    <string name="instruction_title">Instructions</string>
+    <string name="leave">Leave</string>
+    <string name="medium">Medium</string>
+    <string name="next">Next</string>
+    <string name="restart">Restart</string>
+    <string name="victory_content">You won</string>
+    <string name="victory_title">Victory</string>
+</resources>
