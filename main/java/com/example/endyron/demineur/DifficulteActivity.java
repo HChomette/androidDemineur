@@ -59,6 +59,7 @@ public class DifficulteActivity extends AppCompatActivity {
                 bombe = getResources().getInteger(R.integer.hard_bomb);
                 taille = getResources().getInteger(R.integer.hard_size);
             }
+            else return;
             String chaine = getResources().getString(R.string.indic, taille, bombe);
             indic.setText(chaine);
         }

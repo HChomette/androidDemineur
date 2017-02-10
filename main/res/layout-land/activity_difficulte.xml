@@ -19,15 +19,6 @@
         android:id="@+id/difficulte_next_Button"
         android:onClick="pageSuivante"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/difficulte_choix_RadioGroup"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="89dp"
-        android:id="@+id/difficulte_indicateur_TextView"
-        style="@style/ContentText"/>
-
     <RadioGroup
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -65,4 +56,13 @@
         style="@style/TitleText"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/difficulte_indicateur_TextView"
+        style="@style/ContentText"
+        android:layout_above="@+id/difficulte_next_Button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="14dp" />
 </RelativeLayout>
